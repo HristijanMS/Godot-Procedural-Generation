@@ -5,3 +5,4 @@ corners.
 Every time it generates different amount of rooms with different
 shape of the map.
 
+![Screenshot 2025-04-17 220814](https://github.com/user-attachments/assets/e261601f-b249-45fe-89ee-050b81a00e40)
